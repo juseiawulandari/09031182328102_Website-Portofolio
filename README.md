@@ -24,24 +24,24 @@ Website-Portofolio/
 
 To log in, use the following credentials:
 
-- Username: juseia
-- Password: 12345
+- **Username**: juseia
+- **Password**: 12345
 
 ---
 
 ## Features
 
-1. Login System:
+1. **Login System**:
    - Allows users to log in with predefined credentials.
    - Displays error messages for incorrect login attempts.
 
-2. Profile Page:
+2. **Profile Page**:
    - Displays user details such as name, NIM, class, department, and other personal information.
    - Includes a logout functionality.
 
-3. Responsive Design:
+3. **Responsive Design**:
    - Mobile-friendly layout.
    - Aesthetic background and UI styling.
 
-4. Animated Welcome Message:
+4. **Animated Welcome Message**:
    - Marquee text on the login and profile pages for a dynamic user experience.
